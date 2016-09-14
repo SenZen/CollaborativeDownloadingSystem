@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Find &amp; Download</string>
+    <string name="download_finished">Download finished!</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="title_activity_wifi_p2p">WifiP2pActivity</string>
+</resources>
